@@ -25,7 +25,7 @@ pnpm install
 
 After running the above commands, your site should be ready for production and you can begin making your changes.
 
-## Commands
+## Local Dev
 This current site build is ran on [pnpm](https://pnpm.io/) and if your template as well, below is the table I used for the production of this project. Each command should be executed at the root of the project repo.
 
 | Command                 | Action                                                                                                                           |
