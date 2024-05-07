@@ -1,6 +1,6 @@
 # Personal Portfolio/Blog
 ## About This Project
-This is my personal website, where I'll post from time to time on any topics or projects I might find interesting, mostly relating to technology. It was developed using [Astro](https://astro.build), a framework designed for less JavaScript usage and improved loading speeds. Astro is good for building high performance websites that are SEO-friendly and don't take long to load. It's extremely customizable with various UI frameworks and can integrate lots of tools/components.
+This is my personal website, where I'll post from time to time on any topics or projects I might find interesting, mostly relating to technology (and I make almost all the pictures). It was developed using [Astro](https://astro.build), a framework designed for less JavaScript usage and improved loading speeds. Astro is good for building high performance websites that are SEO-friendly and don't take long to load. It's extremely customizable with various UI frameworks and can integrate lots of tools/components.
 
 
 More details on Astro can be found on the [official Astro documentation](https://docs.astro.build).
