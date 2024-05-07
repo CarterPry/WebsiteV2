@@ -10,20 +10,6 @@ More details on Astro can be found on the [official Astro documentation](https:/
 - **UI Agnostic**: Compatible with frameworks like React, Vue, Svelte, and a lot more.
 - **Zero JS by Default**: Reduces the amount of client-side JavaScript.
 
-## Project Setup
-To get started with this specific project, you'll need to have [pnpm](https://pnpm.io/) installed on your computer.
-
-```
-# Clone the repository
-git clone https://template.git
-cd your-repo-directory
-```
-```
-# Install dependencies
-pnpm install
-```
-
-After running the above commands, your site should be ready for production and you can begin making your changes.
 
 ## Local Dev
 This current site build is ran on [pnpm](https://pnpm.io/) and if your template as well, below is the table I used for the production of this project. Each command should be executed at the root of the project repo.
