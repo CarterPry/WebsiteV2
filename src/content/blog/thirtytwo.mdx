@@ -13,7 +13,7 @@ The 32-bit integer limit is pretty much a fundamental constraint in data process
 ## Unsigned Integer
 An unsigned 32-bit integer can span anywhere from `0` to `2^32 − 1` or more in a more broken down format, from `0` to `4,294,967,295`. The calculation is fairly straightforward: since each bit can be either 0 or 1, the total number of combinations is 2^32, and the highest value is one less than this total due to the fact we started counting from zero, as all programming does. So, the title of this post is the max unsigned value for this bit system.
 
-## Signed 32-bit Integer --
+## Signed 32-bit Integer
 A signed 32-bit integer uses one bit to represent the sign (either positive or negative), leaving 31 bits for the final outcome. This leaves a range of `−2^31` to `2^31 - 1`, equating to values all the way from `−2,147,483,648` up to `2,147,483,647`. The most significant bit (MSB) indicates the sign: 0 for the int to be positive and 1 to determine a negative, using a method called `two's complement.`
 
 ## Binary Representation
